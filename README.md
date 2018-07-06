@@ -2,7 +2,7 @@
 
 Nombre y Apellido del alumno: Federico Bordini
 
-DNI: 38.940065
+DNI: 38.940.065
 
 Tema: Holamundo
 
