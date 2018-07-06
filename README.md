@@ -1,12 +1,12 @@
 ![Logo Capacitas](/images/logo_capacitas.png)
 
-Nombre y Apellido del alumno: Stefan Ronacher
+Nombre y Apellido del alumno: Federico Bordini
 
-DNI: 92844240
+DNI: 38.940065
+
+Tema: Holamundo
 
 Materia: Práctica profesionalizante III
-
-Tema: Holamundo en Ionic
 
 Carrera: Desarrollo de sistemas
 
@@ -16,4 +16,4 @@ Institución educativa: Instituto Superior Capacitas
 
 Nombre y Apellido del profesor: Lucas Passalacqua
 
-Fecha de entrega: 4/7/18
+Fecha de entrega: 5/7/18
